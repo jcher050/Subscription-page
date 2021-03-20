@@ -1,2 +1,2 @@
 # Subscription-panel
- an attempt to recreat an subscription page 
+ an attempt to re-create an subscription page 
